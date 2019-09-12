@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+.topnav {
+    background-color: gray;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid #555; /* From w3school */
+}
+.topnav a:hover {
+    background-color: black;
+    color: white;
+}
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+body
+{
+    background-color: black;
+    color:white;
+}
